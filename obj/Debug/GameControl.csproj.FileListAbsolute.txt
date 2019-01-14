@@ -1,0 +1,6 @@
+D:\RefDevelopment\Game\GameControl\bin\Debug\GameControl.dll
+D:\RefDevelopment\Game\GameControl\bin\Debug\GameControl.pdb
+D:\RefDevelopment\Game\GameControl\obj\Debug\GameControl.csproj.CoreCompileInputs.cache
+D:\RefDevelopment\Game\GameControl\obj\Debug\GameControl.dll
+D:\RefDevelopment\Game\GameControl\obj\Debug\GameControl.pdb
+D:\RefDevelopment\Game\GameControl\obj\Debug\GameControl.csprojAssemblyReference.cache
